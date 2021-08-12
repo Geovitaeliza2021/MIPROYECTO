@@ -1,0 +1,11 @@
+pip install streamlit //libreria para desarrollar aplicaciones
+pip install altair //libreria para graficos
+pip install xlrd //libreria para archivos excel versiones antiguas
+pip instal openpyxl //liberia complemento para abrir excel verisiones actuales
+conda install -c plotly plotly //libreria para visualizacion avanzada (y) y enter
+https://altair-viz.github.io/ 'Documentación de Altair
+https://plotly.com/python/ '//documentación de plotly
+
+
+
+

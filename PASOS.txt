@@ -1,0 +1,12 @@
+1. ABRIR EL CMD PROMT
+2. ESCRIBIR CD Desktop
+3. cd Proyecto 1
+4. streamlit run app.py 
+5. nota: tener divido el sublime tex y navegador a la mitad de la pantalla 
+6. La primera vez que guardamos con Crtl+s en sublime text, en el navegador dar clic en always rerun.
+
+
+
+
+
+
