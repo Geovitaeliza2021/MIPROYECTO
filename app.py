@@ -7,7 +7,7 @@ from PIL import Image
 imagen1=Image.open("juegos olimpicos.jpg")
 st.image(imagen1)
 import pandas as pd 
-df=pd.read_excel("data.xlsx")
+df=pd.read_excel("Data.xlsx")
 df["CÁCULO"]=df.NUMEROS*3
 lista_columna=df.columns
 st.write(df)
